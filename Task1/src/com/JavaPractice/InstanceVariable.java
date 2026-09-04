@@ -1,3 +1,5 @@
+package com.JavaPractice;
+
 public class InstanceVariable {
 
     int age=20;

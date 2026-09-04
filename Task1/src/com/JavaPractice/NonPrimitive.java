@@ -1,3 +1,5 @@
+package com.JavaPractice;
+
 public class NonPrimitive {
 
     public static void main(String[] args) {
@@ -6,6 +8,7 @@ public class NonPrimitive {
 
         System.out.println(name);
         System.out.println(numbers[4]);
+
 
     }
 }
